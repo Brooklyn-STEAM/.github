@@ -1,10 +1,9 @@
-<img src="https://github.com/STEAM-Center-NYC/.github/blob/main/profile/banner.png">
+<img src="https://github.com/Brooklyn-STEAM/.github/blob/main/profile/banner.png">
 
-The STEAM Center provides a tangible pathway to economic mobility and wealth creation for young New Yorkers from a diverse range of socioeconomic and educational backgrounds.
+Welcome to the Brooklyn STEAM Center's GitHub organization! We are a cutting-edge Career & Technical Education center located within the historic Brooklyn Navy Yard. Through our strategic partnership with the Yard and its diverse business community, we directly connect our scholars to industry while empowering the next generation of technology and manufacturing leaders through innovative, industry-informed experiences.
 
-The STEAM Center’s Design Principles are core characteristics of its learning environment and weave through each of the experiences scholars have throughout their time at the school.
+We deliver hands-on, workplace-based learning that bridges the gap between education and industry. Our unique approach transforms the traditional classroom into a real-world workspace, creating a diverse and skilled talent pipeline while empowering students to shape their own futures.
 
-- Learning By Doing
-- Workplace Immersion
-- "With Not For"
-- Equitable Access
+---
+
+💡 Interested in learning more about our programs or contributing to our community? Visit our [website](https://www.brooklynsteamcenter.org) or reach out to collaborate!
