@@ -7,3 +7,4 @@ We deliver hands-on, workplace-based learning that bridges the gap between educa
 ---
 
 💡 Interested in learning more about our programs or contributing to our community? Visit our [website](https://www.brooklynsteamcenter.org) or reach out to collaborate!
+
